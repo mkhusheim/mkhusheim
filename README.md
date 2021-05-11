@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Maram Khusheim
 - 👀 I’m interested in Programming and specifically in iOS Development
-- 🌱 I’m currently learning iOS and working as a developer
+- 🌱 I’m currently learning Swift and working as a developer
 - 📫 Reach me on maram.k_12@hotmail.com
 
 <!---
